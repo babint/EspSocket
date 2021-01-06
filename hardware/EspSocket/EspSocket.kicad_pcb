@@ -145,7 +145,7 @@
   )
 
   (module esp-socket:drpep_F_Silk (layer F.Cu) (tedit 0) (tstamp 5FF5D013)
-    (at 147.61464 107.42168)
+    (at 148.0693 102.63632)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
@@ -271,7 +271,7 @@
   )
 
   (module esp-socket:drpep_F_Mask (layer B.Cu) (tedit 0) (tstamp 5FF5CB51)
-    (at 147.64766 106.50728)
+    (at 147.61464 101.59746)
     (fp_text reference GRef (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
