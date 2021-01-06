@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name esp-socket)(type KiCad)(uri /Users/babint/projects/_pcbs/espsocket/assets/esp-socket.pretty)(options "")(descr ""))
+)
